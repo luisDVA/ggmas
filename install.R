@@ -1,0 +1,22 @@
+install.packages(
+  "dplyr",
+  "ggalt",
+  "ggeasy",
+  "ggforce",
+  "ggfx",
+  "ggh4x",
+  "gghighlight",
+  "ggnewscale",
+  "ggplot2",
+  "ggrepel",
+  "ggridges",
+  "knitr",
+  "MASS",
+  "patchwork",
+  "rmarkdown",
+  "scico",
+  "stringr",
+  "tibble",
+  "tools",
+  "xaringan"
+)
