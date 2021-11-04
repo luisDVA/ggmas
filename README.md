@@ -1,8 +1,6 @@
 # gg+
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luisDVA/ggmas/HEAD)
-
-https://mybinder.org/v2/gh/luisDVA/ggmas/HEAD?urlpath=rstudio
+* La instancia de Binder de este curso estará disponible el lunes 08/11/2021 * 
 
 Materiales para tutorial - Latin R novimebre 2021
 
