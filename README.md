@@ -1,6 +1,5 @@
 # gg+
 
-* La instancia de Binder de este curso estará disponible el lunes 08/11/2021 * 
 
 Materiales para tutorial - Latin R novimebre 2021
 

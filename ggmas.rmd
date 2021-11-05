@@ -116,7 +116,7 @@ ggpkgs <- p_db %>%
   filter(str_detect(Package, "^gg"))
 ```
 
-El 03/11/2021: 
+El 04/11/2021: 
 
 `r nrow(ggpkgs)`
 
